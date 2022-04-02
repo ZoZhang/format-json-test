@@ -1,0 +1,215 @@
+{
+    "teams": [
+        {
+            "squadName": "Super hero squad",
+            "homeTown": "Metro City",
+            "formed": 2016,
+            "secretBase": "Super tower",
+            "active": true,
+            "members": [
+                {
+                    "name": "Molecule Man",
+                    "age": 29,
+                    "secretIdentity": "Dan Jukes",
+                    "powers": [
+                        {
+                            "power_code": "RR",
+                            "strengh": 1
+                        },
+                        {
+                            "power_code": "TT",
+                            "strengh": 5
+                        },
+                        {
+                            "power_code": "RB",
+                            "strengh": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Madame Uppercut",
+                    "age": 39,
+                    "secretIdentity": "Jane Wilson",
+                    "powers": [
+                        {
+                            "power_code": "MTP",
+                            "strengh": 6
+                        },
+                        {
+                            "power_code": "DR",
+                            "strengh": 5
+                        },
+                        {
+                            "power_code": "SR",
+                            "strengh": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Eternal Flame",
+                    "age": 1000000,
+                    "secretIdentity": "Unknown",
+                    "powers": [
+                        {
+                            "power_code": "IM",
+                            "strengh": 3
+                        },
+                        {
+                            "power_code": "HI",
+                            "strengh": 10
+                        },
+                        {
+                            "power_code": "IF",
+                            "strengh": 2
+                        },
+                        {
+                            "power_code": "TEL",
+                            "strengh": 6
+                        },
+                        {
+                            "power_code": "IT",
+                            "strengh": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "squadName": "Super Vilain squad",
+            "homeTown": "Meudon City",
+            "formed": 2019,
+            "secretBase": "Under Town",
+            "active": true,
+            "members": [
+                {
+                    "name": "Osef Man",
+                    "age": 29,
+                    "secretIdentity": "Danny Jul",
+                    "powers": [
+                        {
+                            "power_code": "CC",
+                            "strengh": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Titegoute Special",
+                    "age": 39,
+                    "secretIdentity": "Justine Titegoute",
+                    "powers": [
+                        {
+                            "power_code": "DRF",
+                            "strengh": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Eternal Lazy",
+                    "age": 1000000,
+                    "secretIdentity": "Unknown",
+                    "powers": null
+                }
+            ]
+        },
+        {
+            "squadName": "Useless Team",
+            "homeTown": "Bar",
+            "formed": 2021,
+            "secretBase": "Le Debonnaire",
+            "active": true,
+            "members": [
+                {
+                    "name": "Slowy",
+                    "age": 29,
+                    "secretIdentity": "Speedy No Gonzales",
+                    "powers": [
+                        {
+                            "power_code": "HSW",
+                            "strengh": 1
+                        },
+                        {
+                            "power_code": "AL",
+                            "strengh": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Jumpy",
+                    "age": 39,
+                    "secretIdentity": "Bugs D.Bunny ",
+                    "powers": [
+                        {
+                            "power_code": "J2F",
+                            "strengh": 4
+                        },
+                        {
+                            "power_code": "NSJ",
+                            "strengh": 8
+                        }
+                    ]
+                },
+                {
+                    "name": "Cuty Baby",
+                    "age": 1,
+                    "secretIdentity": "Unknown",
+                    "powers": [
+                        {
+                            "power_code": "CAL",
+                            "strengh": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "squadName": "The Oldest",
+            "homeTown": "Dust",
+            "formed": 184,
+            "secretBase": "Under Dust",
+            "active": false,
+            "members": [
+                {
+                    "name": "Daddy Cool",
+                    "age": 93822,
+                    "secretIdentity": "Bobby Farrell",
+                    "powers": [
+                        {
+                            "power_code": "STC",
+                            "strengh": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Missy Elliot",
+                    "age": 45342,
+                    "secretIdentity": "Melissa Arnette",
+                    "powers": [
+                        {
+                            "power_code": "IG",
+                            "strengh": 2
+                        },
+                        {
+                            "power_code": "BAD",
+                            "strengh": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Liz Mitchell",
+                    "age": 3245342,
+                    "secretIdentity": "Unknown",
+                    "powers": [
+                        {
+                            "power_code": "M",
+                            "strengh": 6
+                        },
+                        {
+                            "power_code": "INV",
+                            "strengh": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
